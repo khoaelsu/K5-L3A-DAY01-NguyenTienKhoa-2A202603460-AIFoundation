@@ -1,0 +1,13 @@
+{
+ "seed": 5975,
+ "predictions": {
+  "ml_f1": {
+   "text": "F1~0.85",
+   "time": "10:20:01"
+  },
+  "ml_0.001": {
+   "text": "loss 0.2",
+   "time": "10:22:16"
+  },
+  "dl_curve": {
+   "text": 
